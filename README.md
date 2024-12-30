@@ -1,2 +1,2 @@
-# touch-grass
+# touch grass
 touch grass
